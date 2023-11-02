@@ -23,7 +23,7 @@ I leverage my skills to:
 - 🧩 Solve complex business problems using data analytics.
 
 📌 Recent Projects
-- 📊 [Project 1 Name]: [Brief description and link to the project]
+- 📊 Data Analytics Customer Segmentation : A customer segmentation project combines data analysis in Jupyter and visualization in Tableau. Steps include data collection, preprocessing in Jupyter, feature engineering, clustering, and exporting results. In Tableau, create interactive dashboards to visualize customer segments, extract insights, and tailor strategies. Communicate findings through reports and emphasize the value of segmentation for business growth. This workflow enhances decision-making with reproducible analysis.
 - 📈 [Project 2 Name]: [Brief description and link to the project]
 - 📉 [Project 3 Name]: [Brief description and link to the project]
 
