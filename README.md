@@ -29,14 +29,11 @@ I leverage my skills to:
 - 📉 [Project 3 Name]: [Brief description and link to the project]
 
 🌐 Connect with Me
-Let's connect and collaborate! Reach out to me on LinkedIn, Twitter, or via email.
+Let's connect and collaborate! Reach out to me on LinkedIn and via email.
 
-📧 Email: raakesh.ajaykumar@email.com
+📧 Email: raakesh.ajaykumar@gmail.com
 📱 LinkedIn: www.linkedin.com/in/araakeshmenon
 🌍 Portfolio: [Link to your personal website or portfolio]
 
 Looking forward to exploring data insights together! 📊🌟
 
-RaakeshTheAnalyst/RaakeshTheAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
