@@ -1,6 +1,6 @@
 👨‍💼 Data Analyst | 📊 Python | 🎯 SQL | 📈 R | 🔍 Tableau | 📉 MS Excel | 💡 Power BI
 
-📊 About Me
+
 Hi There ! I'm Raakesh Menon, a dedicated data analyst driven by the mission of extracting valuable insights from raw data. 
 My expertise lies in the art of navigating complex datasets, uncovering hidden patterns, and crafting captivating visualizations that narrate compelling data-driven stories. 
 With 2 Years of experience in the field, I've had the privilege of working on diverse projects that have honed my skills in Python, SQL, R, Tableau, PowerBI, Google data studio etc.
